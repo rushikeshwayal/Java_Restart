@@ -7,5 +7,6 @@ public class primitives {
         //string is not primitive
         String name ="rushi";
         char name2='k';
+        float decimal=4.543f;
     }
 }
