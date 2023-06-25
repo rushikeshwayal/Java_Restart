@@ -8,5 +8,6 @@ public class primitives {
         String name ="rushi";
         char name2='k';
         float decimal=4.543f;
+        double longdecimal=454542.46246426;
     }
 }
