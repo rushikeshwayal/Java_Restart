@@ -9,5 +9,6 @@ public class primitives {
         char name2='k';
         float decimal=4.543f;
         double longdecimal=454542.46246426;
+        boolean check = false;
     }
 }
