@@ -12,5 +12,11 @@ public class Type_casting {
          int i=(int)a;
         System.out.println(a);
         System.out.println(i);
+
+
+        int _x=6;
+        int y=7;
+        System.out.println(_x>y);
+
     }
 }
