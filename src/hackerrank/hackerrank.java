@@ -1,4 +1,4 @@
-package com.Front.java.until;
+package hackerrank;
 
 import java.util.Scanner;
 

@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="068a9db9-821c-420d-938e-63003f9017e6" name="Changes" comment="new things added trying to push">
-      <change afterPath="$PROJECT_DIR$/src/com/Front/java/until/hackerrank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/primitives.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/s_hacker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Front/java/until/hackerrank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hackerrank/hackerrank.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687890446721</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="new things added trying to push">
+      <created>1688024110931</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1688024110931</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
