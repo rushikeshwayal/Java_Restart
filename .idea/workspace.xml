@@ -5,7 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="068a9db9-821c-420d-938e-63003f9017e6" name="Changes" comment="new things added trying to push">
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/introduction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Front/java/until/loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/function/Overloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/function/Scope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/function/Shadowing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/function/VarLenArg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/function/angstrom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/function/fun1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/function/introduction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/function/swap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Restart.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Restart.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/primitives.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primitives.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +30,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -32,7 +47,10 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -142,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688393050026</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="new things added trying to push">
+      <created>1688844889343</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1688844889343</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,5 +185,16 @@
     <MESSAGE value="new" />
     <MESSAGE value="new things added trying to push" />
     <option name="LAST_COMMIT_MESSAGE" value="new things added trying to push" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/function/fun1.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

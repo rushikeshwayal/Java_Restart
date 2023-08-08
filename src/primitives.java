@@ -35,6 +35,7 @@ public class primitives {
         System.out.println("hellom"+d);
         System.out.println("hello again "+c);
         System.out.println("hello once again "+d+c);
+        
 
 
 
